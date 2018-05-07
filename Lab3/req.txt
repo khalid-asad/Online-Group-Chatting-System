@@ -1,0 +1,8 @@
+Groups who demo to TA1: 239.1.0.0 ~ 239.1.255.255
+Groups who demo to TA2: 239.2.0.0 ~ 239.2.255.255
+
+Our group:
+239.15.x.x
+
+
+1 group
